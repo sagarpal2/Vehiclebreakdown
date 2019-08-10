@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631824921373",
+    "firebase_url": "https://vba-app.firebaseio.com",
+    "project_id": "vba-app",
+    "storage_bucket": "vba-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631824921373:android:b808ee8881e6c10e",
+        "android_client_info": {
+          "package_name": "com.example.yash.vba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631824921373-s6661tno1lte9jdl20up0a1trtbkcdpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yash.vba",
+            "certificate_hash": "8ed61de3303eb3c57a99fce6e5a58061485eb4c0"
+          }
+        },
+        {
+          "client_id": "631824921373-akevhjiau1prqu0aj3j98nf9ee20kv5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaGRn1Sn_b_VHPyfdGQMzsz6vGfSj_IGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631824921373-akevhjiau1prqu0aj3j98nf9ee20kv5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
